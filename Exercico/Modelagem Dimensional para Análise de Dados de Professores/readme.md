@@ -37,6 +37,8 @@
   - Carga horária.
 
 ---
+# Star Schema
+![Schema](https://github.com/FlaysonSantos/Power_Bi/blob/main/Exercico/Modelagem%20Dimensional%20para%20An%C3%A1lise%20de%20Dados%20de%20Professores/schema.jpg)
 
 # Código SQL - Criação das Tabelas de Dimensão
 
