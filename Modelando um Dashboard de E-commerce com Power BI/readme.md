@@ -1,5 +1,8 @@
 # Modelando um Dashboard de E-commerce com Power BI - [Flayson Santos](https://github.com/FlaysonSantos/)
+
 # Modelo de Dados - Análise de Vendas
+
+![Schema](https://github.com/FlaysonSantos/Power_Bi/blob/main/Modelando%20um%20Dashboard%20de%20E-commerce%20com%20Power%20BI/atv2.png)
 
 Este documento descreve o modelo de dados utilizado para análise de vendas, produtos, descontos e métricas financeiras. O modelo é composto por uma tabela central de fatos, **F_Vendas**, e várias tabelas dimensionais que permitem uma análise detalhada e agregada dos dados.
 
