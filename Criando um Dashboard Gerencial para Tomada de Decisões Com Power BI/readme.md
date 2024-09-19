@@ -1,4 +1,7 @@
-No projeto que desenvolvi, criei um **relatório financeiro** usando o **Power BI Desktop**. O objetivo foi apresentar dados de vendas e lucros de maneira clara e detalhada, divididos por produto, país e período. Aqui está um resumo do que foi feito:
+# No projeto que desenvolvi, criei um **relatório financeiro** usando o **Power BI Desktop**. O objetivo foi apresentar dados de vendas e lucros de maneira clara e detalhada, divididos por produto, país e período. Aqui está um resumo do que foi feito:
+
+## Relatorio Dashboard Gerencial para Tomada de Decisões Com Power BI
+![Relatorio](https://github.com/FlaysonSantos/Power_Bi/blob/main/Criando%20um%20Dashboard%20Gerencial%20para%20Tomada%20de%20Decis%C3%B5es%20Com%20Power%20BI/relatrio%20criativo_exp_usu%C3%A1rio%20tarefa%201.pdf)
 
 1. **Resumo das Vendas e Unidades Vendidas**: Mostrei o total das vendas, que foi de **118,73 milhões**, e o total de unidades vendidas, que somou **1,13 milhão**, com dados filtrados entre **01/09/2013** e **01/12/2014**.
 
