@@ -1,5 +1,5 @@
 ## Relatório de vendas
-
+Acesse a pasta [Dados](https://github.com/FlaysonSantos/Power_Bi/tree/main/Criando%20um%20Relat%C3%B3rio%20Vendas%20e%20Lucros%20com%20Data%20Analytics%20com%20Power%20BI/Dados) para utilizar o projeto "sales_report_desafio_projeto.pbix" ou vizualizar em pdf "sales_report_desafio_projeto.pdf"
  Gerado no Power BI, com gráficos que mostram dados como:
 
 -   **Vendas por país** (Estados Unidos, Canadá, França, Alemanha, México)
